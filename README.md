@@ -15,7 +15,7 @@ This project aims to analyze flood impacts and population exposure across Pakist
 ### Data Source Acknowledgment 
 Data for this project is sourced from Humanitarian Data Exchange (HDX) and includes contributions from WorldPop, Pakistan Census Office (PCO), and the United Nations Satellite Centre (UNOSAT). 
  
- Dataset Link: https://data.humdata.org/dataset/satellite-detected-water-extents-fromseptember-to- 07-october-2024-over-pakistan?_gl=1*wucu7f*_ga*MjEwMjU1MzAx   
+ Dataset Link:https://data.humdata.org/dataset/satellite-detected-water-extents-fromseptember-to-07-october-2024-over-pakistan?_gl=1*wucu7f*_ga*MjEwMjU1MzAx   
  
  ### Business Questions: 
  
